@@ -18,7 +18,7 @@ _*Изменить инфу о бд на свои можно в файле .env 
   PORT= "Порт на котором будет работать сервер (можно поставить 5000)"
   DB_NAME= "название вашей бд (в моем случае 'db_videos')"
   DB_USER= "имя юзера (в OpenServer по умолчанию 'root')"
-  DB_PASSWORD= "парол (в OpenServer по умолчанию его нету)"
-  DB_HOST= "хост (в OpenServer по умолчанию 'lockalhost')" 
+  DB_PASSWORD= "пароль (в OpenServer по умолчанию его нету)"
+  DB_HOST= "хост (в OpenServer по умолчанию 'localhost')" 
   DB_PORT= "порт хоста (в OpenServer по умолчанию '3306')" 
 ```
